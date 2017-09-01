@@ -154,6 +154,10 @@
       line-height: 1;
       letter-spacing: -1px;
     }
+    p, h2 {
+        margin: 10px;
+        padding: 10px;
+    }
 
 
 
